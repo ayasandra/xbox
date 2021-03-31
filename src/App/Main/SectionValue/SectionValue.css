@@ -10,6 +10,10 @@
    padding-bottom: 100px;
 }
 
+.value-cards__subtitle p{
+   font-size: 36px;
+}
+
 .cards-body {
    display: flex;
    justify-content: space-evenly;
@@ -43,7 +47,7 @@
    transition: all 0.3s ease 0s;
    cursor: pointer;
 }
- .value-cards__column .value-cards__name, .value-cards__column .game-name, .game-card .value-cards__name, .game-card .game-name {
+ .value-cards__column,.value-cards__name p, .game-name, .game-card {
    margin: 35px 0 0 22px;
    color: #435766;
    font-size: 18px;
@@ -53,7 +57,7 @@
    max-width: 318px;
    height: 180px;
 }
- .value-cards__column .value-cards__text, .value-cards__column .game-text, .game-card .value-cards__text, .game-card .game-text {
+ .value-cards__text p, .game-text, .game-text {
    color: #435766;
    font-size: 24px;
    line-height: 28px;
@@ -75,7 +79,7 @@
    width: 200px;
    position: absolute;
    top: 8.1%;
-   left: 18.75%;
+   left: 14.75%;
 }
 
 @media screen and (max-width: 1023px) {

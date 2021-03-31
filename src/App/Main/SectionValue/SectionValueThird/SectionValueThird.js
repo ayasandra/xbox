@@ -4,7 +4,7 @@ const SectionValueThird = () => {
    return (
       <div>
          <div className="value-cards__column">
-            <div className="value-cards__two">
+            <div className="value-cards__three">
                <div className="value-cards__img">
                   <img src="https://github.com/ayasandra/xbox/blob/master/public/img/gold-games.jpg?raw=true"/>
                </div>
