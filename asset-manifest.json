@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/xbox/static/css/main.1ffc451b.chunk.css",
+    "main.js": "/xbox/static/js/main.b394b9d1.chunk.js",
+    "main.js.map": "/xbox/static/js/main.b394b9d1.chunk.js.map",
+    "runtime-main.js": "/xbox/static/js/runtime-main.82978705.js",
+    "runtime-main.js.map": "/xbox/static/js/runtime-main.82978705.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/xbox/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d9a2a348.chunk.js": "/xbox/static/js/2.d9a2a348.chunk.js",
+    "static/js/2.d9a2a348.chunk.js.map": "/xbox/static/js/2.d9a2a348.chunk.js.map",
+    "index.html": "/xbox/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/xbox/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.1ffc451b.chunk.css.map": "/xbox/static/css/main.1ffc451b.chunk.css.map",
+    "static/js/2.d9a2a348.chunk.js.LICENSE.txt": "/xbox/static/js/2.d9a2a348.chunk.js.LICENSE.txt",
+    "static/media/Battlefront.470e6bef.png": "/xbox/static/media/Battlefront.470e6bef.png",
+    "static/media/CallofDuty.63749343.png": "/xbox/static/media/CallofDuty.63749343.png",
+    "static/media/Cards.css": "/xbox/static/media/bg-callofduty.1c53c70e.jpg",
+    "static/media/SectionDesignLab.css": "/xbox/static/media/bg-console.231b4d75.jpg",
+    "static/media/motosport.308f262d.png": "/xbox/static/media/motosport.308f262d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82978705.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d9a2a348.chunk.js",
+    "static/css/main.1ffc451b.chunk.css",
+    "static/js/main.b394b9d1.chunk.js"
+  ]
+}
