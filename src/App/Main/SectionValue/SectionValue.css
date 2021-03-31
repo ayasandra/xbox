@@ -1,0 +1,95 @@
+.value-body {
+   background: radial-gradient(100% 100% at 50% 0%, #686C6F 0%, #373A3C 100%);
+   
+}
+
+.value-title {
+   max-width: 1130px;
+   margin: 0 auto;
+   position: relative;
+   padding-bottom: 100px;
+}
+
+.cards-body {
+   display: flex;
+   justify-content: space-evenly;
+   padding-bottom: 150px;
+}
+
+.value-cards__column, .game-card {
+   flex: 0 0 33.333%;
+   background-color: white;
+   max-width: 320px;
+   position: relative;
+   height: auto;
+   border: 1px solid #8DD83D;
+   border-radius: 4px;
+}
+
+ .value-cards__column button, .game-card button {
+   width: 278px;
+   height: 60px;
+   color: white;
+   background-color: #8dd83d;
+   border-radius: 4px;
+   border: none;
+   margin: 38px 0 27px 0;
+   position: relative;
+   left: 50%;
+   transform: translate(-50%, 0);
+}
+ .value-cards__column button:hover, .game-card button:hover {
+   background-color: #7DD42F;
+   transition: all 0.3s ease 0s;
+   cursor: pointer;
+}
+ .value-cards__column .value-cards__name, .value-cards__column .game-name, .game-card .value-cards__name, .game-card .game-name {
+   margin: 35px 0 0 22px;
+   color: #435766;
+   font-size: 18px;
+   line-height: 21px;
+}
+ .value-cards__column .value-cards__img, .game-card .value-cards__img {
+   max-width: 318px;
+   height: 180px;
+}
+ .value-cards__column .value-cards__text, .value-cards__column .game-text, .game-card .value-cards__text, .game-card .game-text {
+   color: #435766;
+   font-size: 24px;
+   line-height: 28px;
+   margin: 13px 22px 0 22px;
+}
+ 
+ .value-cards__one img {
+   width: 100%;
+}
+ 
+ .value-cards__two img {
+   width: 209px;
+   position: absolute;
+   top: 54px;
+   left: 55px;
+}
+ 
+ .value-cards__three img {
+   width: 200px;
+   position: absolute;
+   top: 8.1%;
+   left: 18.75%;
+}
+
+@media screen and (max-width: 1023px) {
+  .cards-body, .slider-cards__games {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .value-cards__column, .game-card {
+    margin: 0 7px 25px 7px;
+  }
+
+  .value-card {
+     margin: 15px 0;
+  }
+}

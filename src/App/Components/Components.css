@@ -1,0 +1,20 @@
+.wrapper-community, .wrapper-consoles {
+   background: radial-gradient(100% 100% at 50% 0%, #686C6F 0%, #373A3C 100%);
+}
+
+.container-community, .container-consoles {
+   max-width: 1130px;
+   margin: 0 auto;
+   padding-top: 70px;
+}
+
+.title-consoles, .title-community{
+   color: #8DD83D;
+   padding: 45px 0;
+}
+
+p {
+   color: rgba(255, 255, 255, 0.5);
+   font-size: 18px;
+   padding-top: 10px;
+}

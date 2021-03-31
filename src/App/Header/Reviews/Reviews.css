@@ -1,0 +1,16 @@
+.click-reviews:hover {
+   color: rgba(255, 255, 255, 0.75);
+   text-decoration: none;
+}
+
+.click-reviews {
+   color: #8DD83D;
+}
+
+.link-reviews a {
+   align-content: center;
+   padding-left: 20px;
+}
+
+
+

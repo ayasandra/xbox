@@ -1,0 +1,39 @@
+.reviews-body {
+   background: radial-gradient(100% 100% at 50% 0%, #686C6F 0%, #373A3C 100%);
+}
+
+.reviews-container {
+   max-width: 1130px;
+   margin: 0 auto;
+   padding: 90px;
+}
+
+.page-title {
+   padding-top: 20px;
+   color: #8DD83D;
+   padding-bottom: 60px;
+}
+
+.user-name, .user-message {
+   color:#fff;
+   font-size: 17px;
+}
+
+.input-name input {
+   background-color: #fff;
+   color: #000;
+   margin: 20px 0;
+}
+
+textarea {
+   width: 100%;
+   height: 100px;
+}
+
+button {
+   background-color: #8DD83D;
+   color: #fff;
+   width: 100%;
+   height: 35px;
+   margin-top: 15px;
+}

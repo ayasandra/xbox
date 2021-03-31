@@ -1,0 +1,48 @@
+.gamepage-body {
+   background: radial-gradient(100% 100% at 50% 0%, #686C6F 0%, #373A3C 100%);
+}
+
+.gamepage-container {
+   max-width: 1130px;
+   margin: 0 auto;
+   padding-top: 100px;
+   padding-bottom: 100px;
+}
+
+.gamepage-title {
+   font-size: 26px;
+   color: #8DD83D;
+   padding-bottom: 20px;
+}
+
+.gamepage-description {
+   font-size: 18px;
+   padding: 50px 5px;
+   text-align: center;
+}
+
+.gamepage-wrapper {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.gamepage-button {
+   width: 210px;
+   height: 35px;
+   background-color: #8DD83D;
+   color: #fff;
+}
+
+.picture-wrapper {
+   margin-bottom: 50px;
+}
+
+.picture-wrapper img {
+   width: 100%;
+   padding: 0 5px;
+}
+@media (max-width: 767px) {
+   .gamepage-video {
+      width: 100%;
+   }
+}

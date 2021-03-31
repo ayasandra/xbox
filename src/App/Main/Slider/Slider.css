@@ -1,0 +1,56 @@
+.button-watch {
+   width: 136px;
+   height: 38px;
+   border-radius: 4px;
+   background-color: #8DD83D;
+   color: #fff;
+   margin-right: 15px;
+}
+
+.button-explore {
+   width: 148px;
+   height: 38px;
+   border-radius: 4px;
+   background-color: #373A3C;
+   color: #fff;
+   text-decoration: none;
+}
+.button-explore a{
+   color: #fff;
+   text-decoration: none;
+}
+button:hover {
+   background-color: rgb(134, 134, 134);
+   transition: all 0.4s ease 0s;
+}
+
+h3 {
+   margin-bottom: 25px;
+   font-size: 36px;
+}
+
+.carousel-item {
+   padding-top: 50px;
+}
+@media (max-width: 992px) {
+   .slider__body {
+      padding-top: 40px;
+   }
+}
+
+@media (max-width: 767px) {
+   h3 {
+      font-size: calc(16px + 20 * (100vw / 1350));
+   }
+   .description button {
+      height: auto;
+   }
+   .button-explore {
+      display: none;
+   }
+   .carousel-item {
+      padding-top: 60px;
+   }
+   .carousel-item img {
+   }
+}

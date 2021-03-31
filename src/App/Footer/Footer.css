@@ -1,0 +1,12 @@
+.footer__body {
+   background-color: #373A3C;
+   color: white;
+   padding: 0 6px 34px 6px;
+}
+.footer__body a {
+   color: white;}
+ 
+.footer__container {
+   max-width: 1130px;
+   margin: 0 auto;
+}

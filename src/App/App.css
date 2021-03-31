@@ -1,0 +1,23 @@
+.wrapper {
+  display: gird;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 1fr;
+  grid-template-areas:  
+  'header'
+  'main';
+}
+
+
+.head {
+  grid-area: header;
+}
+
+.main-section {
+  grid-area: main;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+
