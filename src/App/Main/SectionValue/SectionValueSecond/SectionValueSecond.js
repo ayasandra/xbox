@@ -6,7 +6,7 @@ const SectionValueSecond = () => {
          <div className="value-cards__column">
             <div className="value-cards__two">
                <div className="value-cards__img">
-                  <img src="https://github.com/ayasandra/xbox/blob/master/img/mixer-logo.jpg?raw=true"/>
+                  <img src="https://github.com/ayasandra/xbox/blob/master/public/img/mixer-logo.jpg?raw=true"/>
                </div>
                <div className="value-cards__name">
                   <p>mixer Streaming</p>

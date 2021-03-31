@@ -53,7 +53,7 @@ const games = [
       name: "Forza Motorsport 7",
       type: "Single player/Multiplayer",
       category: "Racing",
-      image: "https://github.com/ayasandra/xbox/blob/master/img/public/motosport-card.jpg?raw=true",
+      image: "https://github.com/ayasandra/xbox/blob/master/public/img/motosport-card.jpg?raw=true",
       description: <div className='game-page'>
                         Forza Motorsport 7 is where racers, drifters, drag racers, tuners, and creators come together
                         in a community devoted to everything automotive. Drive the cars of your dreams, with more than
