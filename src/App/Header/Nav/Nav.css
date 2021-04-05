@@ -12,6 +12,13 @@
    align-items: center;
    margin-left: 100px;
 }
+.menu-body a:hover {
+   color: #8DD83D;
+}
+.navbar-toggler  {
+   width: 15%;
+   padding: 3px 2px;
+}
 
 .home, .games-white, .consoles {
    margin-right: 10px;

@@ -12,3 +12,9 @@
    color: #8DD83D;
    text-decoration: none;
 }
+
+@media (max-width: 1023px) {
+   .game-button {
+      margin: 0 15px;
+   }
+}

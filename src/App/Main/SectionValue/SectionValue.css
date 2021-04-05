@@ -1,6 +1,5 @@
 .value-body {
-   background: radial-gradient(100% 100% at 50% 0%, #686C6F 0%, #373A3C 100%);
-   
+   background: radial-gradient(100% 100% at 50% 0%, #686C6F 0%, #373A3C 100%);  
 }
 
 .value-title {
@@ -11,7 +10,7 @@
 }
 
 .value-cards__subtitle p{
-   font-size: 36px;
+   font-size: calc(24px + 12 * (100vw / 1130));
 }
 
 .cards-body {
@@ -59,7 +58,7 @@
 }
  .value-cards__text p, .game-text, .game-text {
    color: #435766;
-   font-size: 24px;
+   font-size: calc(16px + 8 * (100vw / 1130));
    line-height: 28px;
    margin: 13px 22px 0 22px;
 }

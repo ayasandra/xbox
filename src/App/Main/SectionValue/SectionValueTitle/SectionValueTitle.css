@@ -8,7 +8,7 @@
 }
  
 h1 {
-   font-size: 48px;
+   font-size: calc(30px + 18 * (100vw / 1130));
    line-height: 56px;
    color: white;
    text-align: center;

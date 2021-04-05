@@ -11,6 +11,9 @@
    align-content: center;
    padding-left: 20px;
 }
+.link-reviews a:hover {
+   color: #8DD83D;
+}
 
 
 
